@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[create(:$0)]]></content>
+    <content><![CDATA[create :$0 ]]></content>
     <tabTrigger>cre</tabTrigger>
     <scope>source.ruby</scope>
     <description>create(:...)</description>
